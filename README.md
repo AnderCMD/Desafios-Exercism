@@ -45,12 +45,12 @@ Cada track tiene sus instrucciones específicas. Por ejemplo, para los retos en 
 
 1. Instalar dependencias:
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. Ejecutar pruebas:
    ```bash
-   npm test
+   pnpm test
    ```
 
 O también puedes usar el CLI oficial de Exercism:
@@ -64,8 +64,8 @@ exercism download --exercise=<nombre-del-ejercicio> --track=<lenguaje>
 ## 📌 Lenguajes cubiertos
 
 - JavaScript  
-- TypeScript  
-- Python  
+- TypeScript (próximamente)
+- Python (próximamente)
 - Go (próximamente)  
 - Rust (próximamente)  
 
@@ -81,6 +81,7 @@ Mejorar mis habilidades resolviendo desafíos de lógica, algoritmos y estructur
 
 **Ander González** – *Ingeniero en Software*  
 GitHub: [@AnderCMD](https://github.com/AnderCMD)
+Portafolio: [andercmd.dev](https://andercmd.dev)
 
 ---
 
